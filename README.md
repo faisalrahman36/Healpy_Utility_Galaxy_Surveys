@@ -33,7 +33,7 @@ c)S.F. Rahman and M. J. Iqbal Number Counts, Confusion, Mapping Issues, and Sky 
 
 If you find the code useful in your analysis then please cite the repo and/or papers (b) and (c) which used part of earlier versions of this code, and so were part of the development process.
 
-Please cite Healpy and Healpix and check if there any specific citing guidelines on their website:
+Please cite Healpy and Healpix, and check if there any specific citing guidelines on their website:
 
 https://healpix.sourceforge.io/
 
