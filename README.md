@@ -5,14 +5,23 @@ This repo contains some utility code to help with healpy based galaxy survey ana
 The files have code for:
 
 1-Function to convert right ascensions given in hour,minutes and seconds format into degrees.
+
 2-Function to convert declination given in degrees,arcminutes and arcseconds format into degrees only format.
+
 3-Function (pix2ang_radec) to do the reverse of ang2pix_radec.
+
 4-Function to perform pixf2ang operation but returns values in theta and phi format not in ra and dec format.
+
 5-Function to give counts of galaxies on each healpix pixel. 
-6-Function to create density fluctuation maps with mask.
+
+6-Function to create density fluctuation maps with mask. [There is another file with its Numba version]
+
 7-Function to convert Cls to CCF_theta or ACF_theta.
+
 8-Function to calculate error bars on CCF_theta or ACF_theta.
+
 9-Function to calculate shot noise from average source count and nside values.
+
 10-Function to calculate fsky ratio using the survey mask. Survey mask should have value=0 for masked pixels and value=1 for valid survey pixels. 
 
 You can read :
