@@ -2,7 +2,7 @@
 
 This repo contains some utility code to help with healpy based galaxy survey analysis.
 
-The files have code for:
+The Healpy_Utility.py file has code for:
 
 1-Function to convert right ascensions given in hour,minutes and seconds format into degrees.
 
@@ -14,7 +14,7 @@ The files have code for:
 
 5-Function to give counts of galaxies on each healpix pixel. 
 
-6-Function to create density fluctuation maps with mask. [There is another file with its Numba version]
+6-Function to create density fluctuation maps with mask. [The file density_map_healpy_numba.py has its Numba version]
 
 7-Function to convert Cls to CCF_theta or ACF_theta.
 
@@ -26,7 +26,9 @@ The files have code for:
 
 You can read :
 a)C. Blake,P . G .Ferreira,J . Borrill,Mon. Not. R. Astron. Soc.,351,923(2004) 
+
 b)S.F. Rahman, CJP, 93(4): 384-394, 10.1139/cjp-2014-0339 (2015)
+
 c)S.F. Rahman and M. J. Iqbal Number Counts, Confusion, Mapping Issues, and Sky Coverage Analysis for Radio Continuum Surveys through Emu Early Science, EMU-ASKAP, and WODAN Especially for Cosmology Science Goals. Astron. Rep. 63, 515–526 (2019). https://doi.org/10.1134/S1063772919070072 https://arxiv.org/abs/1612.08226 (2019)
 
 If you find the code useful in your analysis the please cite the repo and papers (b) and (c) which used earlier version of this code and so were part of the development process.
