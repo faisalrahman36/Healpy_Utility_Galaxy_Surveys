@@ -31,7 +31,7 @@ b)S.F. Rahman, CJP, 93(4): 384-394, 10.1139/cjp-2014-0339 (2015)
 
 c)S.F. Rahman and M. J. Iqbal Number Counts, Confusion, Mapping Issues, and Sky Coverage Analysis for Radio Continuum Surveys through Emu Early Science, EMU-ASKAP, and WODAN Especially for Cosmology Science Goals. Astron. Rep. 63, 515–526 (2019). https://doi.org/10.1134/S1063772919070072 https://arxiv.org/abs/1612.08226 (2019)
 
-If you find the code useful in your analysis the please cite the repo and papers (b) and (c) which used earlier version of this code and so were part of the development process.
+If you find the code useful in your analysis then please cite the repo and/or papers (b) and (c) which used part of earlier versions of this code, and so were part of the development process.
 
 Please feel free to send suggestions or queries at: faisalrahman36@hotmail.com
 
