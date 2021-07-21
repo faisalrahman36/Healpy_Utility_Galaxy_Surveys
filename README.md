@@ -25,6 +25,7 @@ The Healpy_Utility.py file has code for:
 10-Function to calculate fsky ratio using the survey mask. Survey mask should have value=0 for masked pixels and value=1 for valid survey pixels. 
 
 You can read :
+
 a)C. Blake,P . G .Ferreira,J . Borrill,Mon. Not. R. Astron. Soc.,351,923(2004) 
 
 b)S.F. Rahman, CJP, 93(4): 384-394, 10.1139/cjp-2014-0339 (2015)
